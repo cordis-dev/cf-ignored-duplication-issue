@@ -1,1 +1,1 @@
-# cf-ignored-duplication-issue
+# cf-ignored-duplication-issue v2
